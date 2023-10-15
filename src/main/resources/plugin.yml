@@ -1,5 +1,5 @@
 name: TryCube-Lobby
 version: '${project.version}'
 main: fr.tclobby.Main
-authors: [Deglam, Azkv]
+authors: [Awezial]
 description: Plugin de Lobby de TryCube, il nous permet de vous accueillir sur notre serveur !
