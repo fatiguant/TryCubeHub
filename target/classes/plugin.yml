@@ -1,0 +1,5 @@
+name: TryCube-Lobby
+version: '1.0-SNAPSHOT'
+main: fr.tclobby.Main
+authors: [Deglam, Azkv]
+description: Plugin de Lobby de TryCube, il nous permet de vous accueillir sur notre serveur !
